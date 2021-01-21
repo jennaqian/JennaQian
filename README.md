@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+![Puppy - placeholder in case image dont show](https://hips.hearstapps.com/countryliving.cdnds.net/17/47/1511194376-cavachon-puppy-christmas.jpg)
+
+
 
 <!--
 **jennaqian/JennaQian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
